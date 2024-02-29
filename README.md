@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'am
+### Pedro Dantas 👋
 
 <!--
 **pedrodantash/pedrodantash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
